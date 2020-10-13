@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BTL"
+    }
+  },
+  "defaultProject": "BTL",
+  "cli": {
+    "analytics": "0f7cbfdf-0f4d-41b6-803a-3dd678c57619"
+  }
 }
